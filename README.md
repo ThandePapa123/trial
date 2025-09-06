@@ -1,4 +1,5 @@
 # trial
+
 This is my first git repository
 <br>
-Author - Ami Satsangi
+Author - Ami Satsangi(Snu)
